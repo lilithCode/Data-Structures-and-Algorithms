@@ -12,7 +12,7 @@ This repository contains various programs and solutions to problems related to D
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DSA-Practice.git
+   https://github.com/lilithCode/Data-Structures-and-Algorithms
 2. Navigate to the respective folder to explore individual programs and solutions.
 
 ## Contributing
